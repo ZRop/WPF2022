@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.30503.244
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32526.322
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "00 014 SayHello", "00 014 SayHello\00 014 SayHello.csproj", "{793284FA-333A-4836-8096-314E5F91385F}"
 EndProject
@@ -40,6 +40,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13 279 ListColorShapes", "13 279 ListColorShapes\13 279 ListColorShapes\13 279 ListColorShapes.csproj", "{9A3E4609-E6C2-4036-973C-DE9E30790BBA}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13 280 ListColoredLabels", "13 280 ListColoredLabels\13 280 ListColoredLabels\13 280 ListColoredLabels.csproj", "{E97CB0B4-0A24-4DE4-A8A4-3DDC3ABD8B1E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04 090 editSomeText", "04 090 editSomeText\04 090 editSomeText\04 090 editSomeText.csproj", "{70D21323-5C97-4BFE-A9BB-9F77A9FDE086}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -123,6 +125,10 @@ Global
 		{E97CB0B4-0A24-4DE4-A8A4-3DDC3ABD8B1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E97CB0B4-0A24-4DE4-A8A4-3DDC3ABD8B1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E97CB0B4-0A24-4DE4-A8A4-3DDC3ABD8B1E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{70D21323-5C97-4BFE-A9BB-9F77A9FDE086}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70D21323-5C97-4BFE-A9BB-9F77A9FDE086}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70D21323-5C97-4BFE-A9BB-9F77A9FDE086}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70D21323-5C97-4BFE-A9BB-9F77A9FDE086}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
